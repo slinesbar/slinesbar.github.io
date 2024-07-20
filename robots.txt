@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://slinesbar.github.io/sitemap
+Sitemap: https://slinesbar.github.io/app/sitemap
+Sitemap: https://slinesbar.github.io/assets/sitemap
+Sitemap: https://slinesbar.github.io/css/sitemap
+Sitemap: https://slinesbar.github.io/includes/sitemap
+Sitemap: https://slinesbar.github.io/item/sitemap
+Sitemap: https://slinesbar.github.io/src/sitemap
